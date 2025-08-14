@@ -1,6 +1,6 @@
 package me.levviata.computer;
 
-import me.levviata.computer.utils.IHasModel;
+import me.levviata.computer.util.IHasModel;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;

@@ -1,8 +1,8 @@
 package me.levviata.computer;
 
-import me.levviata.computer.blocks.computers.MapleII;
+import me.levviata.computer.block.computer.MapleII;
 import me.levviata.computer.proxy.CommonProxy;
-import me.levviata.computer.utils.Reference;
+import me.levviata.computer.util.Reference;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraftforge.fml.common.Mod;

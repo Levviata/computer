@@ -1,4 +1,4 @@
-package me.levviata.computer.utils;
+package me.levviata.computer.util;
 
 public interface IHasModel
 {
